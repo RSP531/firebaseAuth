@@ -35,3 +35,4 @@ const styles = {
 };
 
 export { Button };
+//not export default Button
